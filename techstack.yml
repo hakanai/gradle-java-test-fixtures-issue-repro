@@ -1,0 +1,33 @@
+repo_name: hakanai/gradle-java-test-fixtures-issue-repro
+report_id: 37b439b753972095ea2650e668508f5f
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:59:21+00:00'
+requested_by: hakanai
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hakanai/gradle-java-test-fixtures-issue-repro
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/hakanai/gradle-java-test-fixtures-issue-repro/blob/main/gradlew
+  detection_source: gradlew
+  last_updated_by: Hakanai
+  last_updated_on: 2022-03-01 10:19:32.000000000 Z
